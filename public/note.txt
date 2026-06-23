@@ -1,0 +1,89 @@
+```ts
+/**
+ * @file: fatima.profile.ts
+ * @author: Fatima Qureshi
+ * @summary: Turning ideas into scalable web applications and exploring the intersection of AI and software engineering.
+ */
+
+// ----------------------------------------
+// CURRENT STATUS
+// ----------------------------------------
+
+const profile = {
+  role: "Software Engineer",
+  degree: "B.Tech AI & Data Science",
+  graduationYear: 2025,
+  location: "India",
+  availability: "Open to Opportunities",
+};
+
+// ----------------------------------------
+// TECH ARSENAL
+// ----------------------------------------
+
+const skills = {
+  languages: [
+    "JavaScript",
+    "Python",
+    "C++"
+  ],
+
+  frontend: [
+    "React.js",
+    "HTML",
+    "CSS",
+    "Tailwind CSS"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Flask"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Firebase",
+    "Figma",
+    "OpenCV"
+  ]
+};
+
+// ----------------------------------------
+// FEATURED BUILDS
+// ----------------------------------------
+
+const projects = [
+  "Epicure Express",
+  "Zomato Reels Clone",
+  "Donation Platform",
+  "Potato Disease Classification",
+  "Spotify Clone"
+];
+
+// ----------------------------------------
+// MISSION
+// ----------------------------------------
+
+const mission = `
+Build products that solve real-world problems,
+write clean code, learn continuously,
+and grow into a world-class software engineer.
+`;
+
+export { profile, skills, projects, mission };
+
+
+/* TERMINAL */
+
+> initializing portfolio...
+
+✔ React Loaded
+✔ Projects Loaded
+✔ Skills Loaded
+✔ Coffee Consumed
+
+Status: Ready to Build 🚀
+```
