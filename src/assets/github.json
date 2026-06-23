@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"image": "https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wJTIwaW1hZ2VzfGVufDB8fDB8fHww",
+		"title": "cours scheduler",
+		"description": "Course scheduler with drag-and-drop timetable and slot auto-fill.",
+		"tags": ["react", "drag", "timetable"],
+		"repolink": "https://github.com/Fatimaq07/cours-scheduler-1",
+		"demolink": "https://fatimaq07.github.io/cours-scheduler-1"
+	},
+	{
+		"id": 2,
+		"image": "https://plus.unsplash.com/premium_vector-1780547425206-3ace3b3f0322?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fHZGY3ZvR0tMb2F3fHxlbnwwfHx8fHw%3D",
+		"title": "cours scheduler",
+		"description": "Calendar-sync scheduler with conflict detection and API integration.",
+		"tags": ["calendar", "sync", "api"],
+		"repolink": "https://github.com/Fatimaq07/cours-scheduler-2",
+		"demolink": "https://fatimaq07.github.io/cours-scheduler-2"
+	},
+	{
+		"id": 3,
+		"image": "https://plus.unsplash.com/premium_vector-1779722790211-69bd798a7d94?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDM4fHZGY3ZvR0tMb2F3fHxlbnwwfHx8fHw%3D",
+		"title": "cours scheduler",
+		"description": "Real-time collaborative scheduler with WebSocket-powered updates.",
+		"tags": ["realtime", "websockets", "collaboration"],
+		"repolink": "https://github.com/Fatimaq07/cours-scheduler-3",
+		"demolink": "https://fatimaq07.github.io/cours-scheduler-3"
+	},
+	{
+		"id": 4,
+		"image": "https://plus.unsplash.com/premium_vector-1776686542354-fb859f912cfe?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDg1fHZGY3ZvR0tMb2F3fHxlbnwwfHx8fHw%3D",
+		"title": "cours scheduler",
+		"description": "Progressive Web App scheduler with offline support and sync queue.",
+		"tags": ["pwa", "offline", "service-worker"],
+		"repolink": "https://github.com/Fatimaq07/cours-scheduler-4",
+		"demolink": "https://fatimaq07.github.io/cours-scheduler-4"
+	},
+	{
+		"id": 5,
+		"image": "https://plus.unsplash.com/premium_vector-1778603148788-7fe42842cdc6?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHx0b3BpYy1mZWVkfDEyMHx2RmN2b0dLTG9hd3x8ZW58MHx8fHx8",
+		"title": "cours scheduler",
+		"description": "Visual timetable with CSV import/export and printable views.",
+		"tags": ["export", "csv", "ux"],
+		"repolink": "https://github.com/Fatimaq07/cours-scheduler-5",
+		"demolink": "https://fatimaq07.github.io/cours-scheduler-5"
+	}
+]
