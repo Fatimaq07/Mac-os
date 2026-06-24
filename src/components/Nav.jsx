@@ -17,12 +17,12 @@ const Nav = () =>{
         <div className="nav-item">
             <p>Window</p>
         </div>
-        <div class="nav-item">
+        <div className="nav-item">
             <p>Terminal</p>
         </div>
     </div>
     <div className="right">
-        <div class="nav-icon">
+        <div className="nav-icon">
             <img src="/navbar-icons/wifi.svg" alt=""/>
         </div>
     <div className="nav-item">
