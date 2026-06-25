@@ -1,11 +1,10 @@
 import React from 'react'
 import MacWindow from './MacWindow'
-import TerminalModule from 'react-console-emulator/dist/Terminal'
+import Terminal from 'react-console-emulator'
 import "./cli.scss"
 
-const Terminal = TerminalModule.default
 
-const Cli = () => {
+const Cli = ({windowName,setWindowsState}) => {
   const commands = {}
 
   commands.echo = {
@@ -82,7 +81,7 @@ help
 `
 
   return (
-    <MacWindow>
+    <MacWindow windowName={windowName} setWindowsState={setWindowsState}>
       <div className="cli-window">
         <Terminal
           noDefaults
